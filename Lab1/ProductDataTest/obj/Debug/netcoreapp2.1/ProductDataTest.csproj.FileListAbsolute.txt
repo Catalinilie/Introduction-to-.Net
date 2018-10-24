@@ -1,0 +1,17 @@
+c:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab1\ProductDataTest\obj\Debug\netcoreapp2.1\ProductDataTest.csprojAssemblyReference.cache
+c:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab1\ProductDataTest\obj\Debug\netcoreapp2.1\ProductDataTest.csproj.CoreCompileInputs.cache
+c:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab1\ProductDataTest\obj\Debug\netcoreapp2.1\ProductDataTest.AssemblyInfoInputs.cache
+c:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab1\ProductDataTest\obj\Debug\netcoreapp2.1\ProductDataTest.AssemblyInfo.cs
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab1\ProductDataTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab1\ProductDataTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab1\ProductDataTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab1\ProductDataTest\bin\Debug\netcoreapp2.1\ProductDataTest.deps.json
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab1\ProductDataTest\bin\Debug\netcoreapp2.1\ProductDataTest.runtimeconfig.json
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab1\ProductDataTest\bin\Debug\netcoreapp2.1\ProductDataTest.runtimeconfig.dev.json
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab1\ProductDataTest\bin\Debug\netcoreapp2.1\ProductDataTest.dll
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab1\ProductDataTest\bin\Debug\netcoreapp2.1\ProductData.dll
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab1\ProductDataTest\bin\Debug\netcoreapp2.1\ProductDataTest.pdb
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab1\ProductDataTest\bin\Debug\netcoreapp2.1\ProductData.pdb
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab1\ProductDataTest\obj\Debug\netcoreapp2.1\ProductDataTest.csproj.CopyComplete
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab1\ProductDataTest\obj\Debug\netcoreapp2.1\ProductDataTest.dll
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab1\ProductDataTest\obj\Debug\netcoreapp2.1\ProductDataTest.pdb

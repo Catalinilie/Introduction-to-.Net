@@ -1,0 +1,12 @@
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab2\Lab2\bin\Debug\netstandard2.0\Lab2.deps.json
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab2\Lab2\bin\Debug\netstandard2.0\Lab2.dll
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab2\Lab2\bin\Debug\netstandard2.0\Lab2.pdb
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab2\Lab2\obj\Debug\netstandard2.0\Lab2.csprojAssemblyReference.cache
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab2\Lab2\obj\Debug\netstandard2.0\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab2\Lab2\obj\Debug\netstandard2.0\Lab2.AssemblyInfoInputs.cache
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab2\Lab2\obj\Debug\netstandard2.0\Lab2.AssemblyInfo.cs
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab2\Lab2\obj\Debug\netstandard2.0\Lab2.dll
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab2\Lab2\obj\Debug\netstandard2.0\Lab2.pdb
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab2\Lab2\bin\Debug\netstandard2.0\ProductData.dll
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab2\Lab2\bin\Debug\netstandard2.0\ProductData.pdb
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab2\Lab2\obj\Debug\netstandard2.0\Lab2.csproj.CopyComplete

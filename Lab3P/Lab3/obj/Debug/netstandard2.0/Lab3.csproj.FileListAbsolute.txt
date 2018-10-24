@@ -1,0 +1,9 @@
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab3P\Lab3\bin\Debug\netstandard2.0\Lab3.deps.json
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab3P\Lab3\bin\Debug\netstandard2.0\Lab3.dll
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab3P\Lab3\bin\Debug\netstandard2.0\Lab3.pdb
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab3P\Lab3\obj\Debug\netstandard2.0\Lab3.csprojAssemblyReference.cache
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab3P\Lab3\obj\Debug\netstandard2.0\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab3P\Lab3\obj\Debug\netstandard2.0\Lab3.AssemblyInfoInputs.cache
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab3P\Lab3\obj\Debug\netstandard2.0\Lab3.AssemblyInfo.cs
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab3P\Lab3\obj\Debug\netstandard2.0\Lab3.dll
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab3P\Lab3\obj\Debug\netstandard2.0\Lab3.pdb
