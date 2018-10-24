@@ -1,0 +1,51 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\ilie.prisacariu\\Desktop\\Facultate\\dotNET\\Lab4\\ClassLibrary1\\ClassLibrary1\\ClassLibrary1.csproj",
+    "projectName": "ClassLibrary1",
+    "projectPath": "C:\\Users\\ilie.prisacariu\\Desktop\\Facultate\\dotNET\\Lab4\\ClassLibrary1\\ClassLibrary1\\ClassLibrary1.csproj",
+    "outputPath": "C:\\Users\\ilie.prisacariu\\Desktop\\Facultate\\dotNET\\Lab4\\ClassLibrary1\\ClassLibrary1\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "Microsoft.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "[2.2.0-preview3-35497, )"
+        },
+        "Microsoft.EntityFrameworkCore.SqlServer": {
+          "target": "Package",
+          "version": "[2.2.0-preview3-35497, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

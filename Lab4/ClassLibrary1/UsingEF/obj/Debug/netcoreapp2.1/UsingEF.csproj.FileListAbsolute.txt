@@ -1,0 +1,12 @@
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab4\ClassLibrary1\UsingEF\bin\Debug\netcoreapp2.1\UsingEF.deps.json
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab4\ClassLibrary1\UsingEF\bin\Debug\netcoreapp2.1\UsingEF.dll
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab4\ClassLibrary1\UsingEF\bin\Debug\netcoreapp2.1\UsingEF.pdb
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab4\ClassLibrary1\UsingEF\bin\Debug\netcoreapp2.1\ClassLibrary1.dll
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab4\ClassLibrary1\UsingEF\bin\Debug\netcoreapp2.1\ClassLibrary1.pdb
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab4\ClassLibrary1\UsingEF\obj\Debug\netcoreapp2.1\UsingEF.csprojAssemblyReference.cache
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab4\ClassLibrary1\UsingEF\obj\Debug\netcoreapp2.1\UsingEF.csproj.CoreCompileInputs.cache
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab4\ClassLibrary1\UsingEF\obj\Debug\netcoreapp2.1\UsingEF.AssemblyInfoInputs.cache
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab4\ClassLibrary1\UsingEF\obj\Debug\netcoreapp2.1\UsingEF.AssemblyInfo.cs
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab4\ClassLibrary1\UsingEF\obj\Debug\netcoreapp2.1\UsingEF.csproj.CopyComplete
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab4\ClassLibrary1\UsingEF\obj\Debug\netcoreapp2.1\UsingEF.dll
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab4\ClassLibrary1\UsingEF\obj\Debug\netcoreapp2.1\UsingEF.pdb
