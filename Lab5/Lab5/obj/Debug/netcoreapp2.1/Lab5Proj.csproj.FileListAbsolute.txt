@@ -1,0 +1,11 @@
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab5\Lab5\bin\Debug\netcoreapp2.1\Lab5Proj.deps.json
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab5\Lab5\bin\Debug\netcoreapp2.1\Lab5Proj.dll
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab5\Lab5\obj\Debug\netcoreapp2.1\Lab5Proj.csprojAssemblyReference.cache
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab5\Lab5\obj\Debug\netcoreapp2.1\Lab5Proj.csproj.CoreCompileInputs.cache
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab5\Lab5\obj\Debug\netcoreapp2.1\Lab5Proj.AssemblyInfoInputs.cache
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab5\Lab5\obj\Debug\netcoreapp2.1\Lab5Proj.AssemblyInfo.cs
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab5\Lab5\bin\Debug\netcoreapp2.1\Lab5Proj.runtimeconfig.json
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab5\Lab5\bin\Debug\netcoreapp2.1\Lab5Proj.runtimeconfig.dev.json
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab5\Lab5\bin\Debug\netcoreapp2.1\Lab5Proj.pdb
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab5\Lab5\obj\Debug\netcoreapp2.1\Lab5Proj.dll
+C:\Users\ilie.prisacariu\Desktop\Facultate\dotNET\Lab5\Lab5\obj\Debug\netcoreapp2.1\Lab5Proj.pdb
